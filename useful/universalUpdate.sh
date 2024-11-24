@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Setup the variables for the logging files
+
 releaseFile=/etc/os-release
 logFile=/var/log/updater.log
 errorLog=/var/log/updater_errors.log
